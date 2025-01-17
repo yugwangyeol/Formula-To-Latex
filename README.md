@@ -1,7 +1,7 @@
 # Formula to Latex
 
 <div align="center">
-  <img src="doc/font_logo.png" alt="Formula to Latex Logo">
+<img src="https://github.com/SeoYeonnLee/Formula-To-Latex/assets/105186555/5f1bfb20-ce2a-4359-97bc-117113b6539a.png" width="600" height="200"/>
 </div>
 
 ## Overview
@@ -95,6 +95,9 @@ python Formula_csv.py --pfp "논문_경로.pdf"
 - 여러 줄의 수식 인식률 저하
 - UI/UX 개선 필요
 - 학습 데이터 부족
+
+## WebUI Inference
+![play](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/assets/97331900/a5b42e61-616e-4c29-81ce-01db58071d38)
 
 ## Team Composition
 - AI빅데이터융합경영학과 딥러닝 논문 분석 학회 X:AI 4기 CV2 TEAM
