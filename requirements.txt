@@ -1,0 +1,12 @@
+torch>=1.7.0
+torchvision>=0.8.0
+numpy>=1.19.2
+PyQt5>=5.15.0
+PyMuPDF>=1.18.0
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+pix2tex>=0.0.1
+matplotlib>=3.3.0
+pandas>=1.2.0
+Pillow>=8.0.0
+tqdm>=4.50.0
